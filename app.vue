@@ -1,12 +1,7 @@
-<script setup lang="ts">
-const runtimeConfig = useRuntimeConfig()
-console.log(runtimeConfig.apiSecret)
-</script>
-
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
-  <NuxtPage />
 </template>
