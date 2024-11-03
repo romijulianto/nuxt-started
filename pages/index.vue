@@ -22,6 +22,7 @@ console.log(appConfig.theme)
   </div>
   <div>
     <h1>Welcome to the homepage</h1>
+    <img src="/favicon.ico" alt="Discover Nuxt 3" />
     <AppAlert>
       This is an auto-imported component.
     </AppAlert>
