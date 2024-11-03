@@ -20,4 +20,11 @@ console.log(appConfig.theme)
     <button class="btn btn-ghost">Ghost</button>
     <button class="btn btn-link">Link</button>
   </div>
+  <div>
+    <h1>Welcome to the homepage</h1>
+    <AppAlert>
+      This is an auto-imported component.
+    </AppAlert>
+  </div>
+
 </template>
