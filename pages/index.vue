@@ -29,3 +29,9 @@ console.log(appConfig.theme)
   </div>
 
 </template>
+
+<style>
+h1 {
+  font-family: 'FarAwayGalaxy';
+}
+</style>
